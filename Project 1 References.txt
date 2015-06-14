@@ -1,0 +1,6 @@
+David Wampler
+Project 1: Mockup to Website
+1-30-2015
+
+For references during the creation of Project 1, I used w3schools.com for such things as understanding <meta> and other syntax.
+
